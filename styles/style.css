@@ -98,3 +98,66 @@ nav li a{
     color: #474747;
     margin-top: 20px;
 }
+.btn-download{
+    background: #FD6E0A;
+    width: 200px;
+    height: 64px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 20px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0;
+}
+.btn-contact{
+    width: 160px;
+    height: 64px;
+    border: 1px solid #FD6E0A;
+    border-radius: 5px;
+    color: #FD6E0A;
+    font-size: 20px;
+    padding: 0;
+
+}
+
+/* main section styles */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+/* about me section styles */
+.section-title{
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+}
+.section-description{
+    margin-top: 0;
+    padding:30px 100px;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+}
+.about{
+    padding:130px;
+    border-radius: 5px;
+    background:#FFF8F3;
+    margin:130px 0;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+    padding:0 100px;
+}
+.info-title{
+    margin-bottom: 0;
+}
+.about-info{
+    margin-right: 20px;
+}
+.info-description{
+    margin-top:10px;
+}
